@@ -1,0 +1,6 @@
+|Space shooter Android game developed in Android Studio.
+
+|Install the game using the app-debug.apk file
+
+|Player can tap the screen to start the game, press on the screen to elevate the rocket and release to descend. 
+
